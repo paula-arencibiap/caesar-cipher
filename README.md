@@ -15,7 +15,7 @@ Built using Python's `str.maketrans()` for clean, efficient character mapping.
 
 ---
 
-### Character Creator — `character_creator.py`
+### RPG Character Creator — `rpg_character_creator.py`
 A simple RPG-style character builder that validates stat distribution
 and displays attributes using a dot-based visual bar (● ○).
 
@@ -28,6 +28,13 @@ Extracts a secret numeric code from a list of poems by reading the length
 of a specific word on each line based on its position.
 
 **Concepts:** nested loops, `enumerate()`, string splitting, list building
+
+---
+
+### Number Pattern Generator— `number_pattern_generator.py`
+Generates a space-separated sequence of numbers from 1 to n with input validation.
+
+**Concepts:** input validation, `range()`, generator expressions
 
 ---
 
