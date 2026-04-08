@@ -38,6 +38,11 @@ Generates a space-separated sequence of numbers from 1 to n with input validatio
 
 ---
 
+### Word Length Encoder — `word_length_encoder.py`
+Encodes a list of sentences into a string of word lengths based on a target word position.
+
+**Concepts:** input validation, `split()`, `enumerate()`, string building with `+=`
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
