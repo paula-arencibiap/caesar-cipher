@@ -43,6 +43,16 @@ Encodes a list of sentences into a string of word lengths based on a target word
 
 **Concepts:** input validation, `split()`, `enumerate()`, string building with `+=`
 
+---
+
+### Settings Manager — `settings_manager.py`
+A dictionary-based settings manager that supports adding, updating, 
+deleting, and viewing user settings with input normalization.
+
+**Concepts:** dictionaries, f-strings, CRUD operations, tuple unpacking, type hints
+
+---
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
