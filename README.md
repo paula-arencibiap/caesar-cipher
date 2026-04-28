@@ -53,6 +53,14 @@ deleting, and viewing user settings with input normalization.
 
 ---
 
+### Contact Book — `contact_book.py`
+A dictionary-based contact book that supports adding, updating, deleting, 
+searching, and viewing contacts with input normalization.
+
+**Concepts:** dictionaries, f-strings, CRUD operations, tuple unpacking, type hints
+
+---
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
