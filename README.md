@@ -61,6 +61,24 @@ searching, and viewing contacts with input normalization.
 
 ---
 
+### Student Grade Tracker — `student_grade_tracker.py`
+Loops through a list of student score tuples and generates a formatted
+report showing each student's result and whether they passed or failed.
+
+**Concepts:** `enumerate()`, tuple unpacking, f-strings, string building
+
+---
+
+### ISBN Validator — `isbn_validator.py`
+Debugged a broken ISBN-10 and ISBN-13 validator — fixing an off-by-one 
+error in string slicing, a misused len() call, and adding error handling 
+for invalid characters, missing commas, and non-integer input.
+
+**Concepts:** error handling, `try/except`, string slicing, debugging,
+IndexError, ValueError
+
+---
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
