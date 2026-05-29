@@ -79,6 +79,14 @@ IndexError, ValueError
 
 ---
 
+### Musical Instrument Inventory— `musical_instrument_inventory.py`
+A simple class-based model of a musical instrument with methods 
+for playing and retrieving instrument facts.
+
+**Concepts:** OOP, classes, `__init__`, instance methods, `self`
+
+---
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
