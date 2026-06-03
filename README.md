@@ -87,6 +87,14 @@ for playing and retrieving instrument facts.
 
 ---
 
+### Planet — `planet.py`
+A class-based model of a planet with input validation using `raise`,
+a custom string representation via `__str__`, and an orbit method.
+
+**Concepts:** OOP, classes, `__str__`, `raise`, TypeError, ValueError
+
+---
+
 ## About
 These exercises were written while working through Python fundamentals —
 loops, functions, strings, and input validation.
